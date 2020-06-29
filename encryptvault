@@ -1,0 +1,3 @@
++---
++#Ansible controller password
++vault_ansiblemachine: "Start@811027"
